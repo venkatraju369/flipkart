@@ -1,5 +1,4 @@
 hello this file contain string related code
-<<<<<<< HEAD
 this line is updated line in this file
 line no 3
 line no 4
@@ -19,4 +18,3 @@ kjkKNCJNKn
 nnNKNKJKNK
 Nklnnknnknk     in master
 
->>>>>>> master
